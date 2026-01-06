@@ -55,6 +55,7 @@ pom.xml.releaseBackup
 *.zip
 *.tar.gz
 *.rar
+*config.json*
 
 # Logs
 logs/
