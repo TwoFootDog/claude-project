@@ -56,6 +56,7 @@ pom.xml.releaseBackup
 *.tar.gz
 *.rar
 
+
 # Logs
 logs/
 *.log
@@ -71,4 +72,4 @@ con
 prn
 aux
 lpt*
-com*
+#com*
